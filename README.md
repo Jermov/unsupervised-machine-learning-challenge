@@ -1,6 +1,6 @@
 # unsupervised-machine-learning-challenge
 
-
+ ![ML Fun!](Resources/catch22.PNG)
 
 ## Instructions
 
@@ -46,3 +46,4 @@ Create an elbow plot to identify the best number of clusters. Make sure to do th
 ### Part 4: Make a Recommendation
 
 Based on your findings, write up a brief (one or two sentences) recommendation for your supervisor in your Jupyter Notebook. Can the patients be clustered? If so, into how many clusters? 
+
